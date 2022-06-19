@@ -1,0 +1,11 @@
+/*11.6.3 Customize the Page with CSS*/
+body {
+    color: #f7f7f7;
+} 
+
+/* Customize Jumbotron*/
+.jumbotron{
+    background-image: url("../style/images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
