@@ -23,7 +23,9 @@
 ![More_Filters](./UFOs/More_FIlters.png)
 
 # Summary
-
+-Despite this web page showing specifics that can be helpful when search for certain criteria, I do think on eof its drawbacks is that the data in the table is limited.
+We are limited to the data of Janaury of 2010. This vastly limits the search abaility of the user where they are restricted to one month that was 10+ years ago. If the user is more interested in incidents that occured (lets say in Roswell back in 1947), our table would not be able to help them since the data we used was for the year of 2010. Due to this, I believe gaining access to a larger set of data that has more dates (especially those in the past) can vastly imporve the research capabilities of the web page. 
+-
 
 
 # Resources
