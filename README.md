@@ -20,7 +20,7 @@
 -IF we would like to get even more sepcific, we can simply just enter the shape of the UFO itself that was sighted under the shape filter. In this case we can input "triangle" into the shape filter. We can also add a date we would like to see. Simply enter a date in the date filter like so.
 
 ### Web Page (With More Filters)
-![Web_Page_With_More_Filters](./UFOs/More_Filters.png)
+![More_Filters](./UFOs/More_Filters.png)
 
 # Summary
 
